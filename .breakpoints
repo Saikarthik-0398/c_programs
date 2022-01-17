@@ -3,17 +3,9 @@
     "main": [
       {
         "id": "d2baed05-376f-4edf-a7d9-415f34dc9206",
-        "line": 4,
-        "version": 1,
-        "index": 258
-      }
-    ],
-    "main.c": [
-      {
-        "id": "91a9b4bb-3848-4e23-9b5e-f4ee3e94d039",
         "line": 1,
-        "version": 7,
-        "index": 0
+        "version": 2,
+        "index": 40
       }
     ]
   }
